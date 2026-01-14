@@ -2,7 +2,7 @@
 
 This guide contains detailed step-by-step instructions for building the Smart Candy Pumpkin from start to finish.
 
-> 🎥 **Video tutorials available:** Check out our [Instructables page](https://www.instructables.com/The-Smart-Candy-Pumpkin/) for time-lapse videos of each step.
+> 🎥 **Video tutorials available:** Check out our [Instructables page](https://www.instructables.com/The-Smart-Candy-Pumpkin-/) for time-lapse videos of each step.
 
 ---
 
