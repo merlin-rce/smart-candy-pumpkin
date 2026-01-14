@@ -11,6 +11,11 @@ The project is built around an ESP32 microcontroller, an ultrasonic distance sen
 
 This project combines Arduino programming, basic electronics, and 3D printing into a single build. It was designed to be fully reproducible, well-documented, and suitable for students, makers, and Halloween enthusiasts.
 
+> **Beginner-friendly version available:**  
+> A more detailed, step-by-step version of this project is available on Instructables:  
+> https://www.instructables.com/The-Smart-Candy-Pumpkin-/
+
+
 ---
 
 ## How It Works
