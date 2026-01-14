@@ -51,22 +51,31 @@ The system is powered by a rechargeable 3.7 V Li-Po battery and includes USB-C c
 
 ---
 
-## Repository Structure
+### Folder Overview
 
-smart-candy-pumpkin/
-├── README.md
-├── code/
-│   └── Smart_Candy_Pumpkin.ino
-├── 3d-print/
-│   ├── STL/
-│   └── BambuStudio/
-├── electronics/
-│   └── wiring_diagram.png
-├── media/
-│   ├── images/
-│   └── videos.md
-└── LICENSE
+- **README.md**  
+  Project documentation and build overview
 
+- **code/**  
+  Arduino source code for the ESP32  
+  - `Smart_Candy_Pumpkin.ino`
+
+- **3d-print/**  
+  3D printable files and slicer project  
+  - `STL/` – Exported STL files  
+  - `BambuStudio/` – Ready-to-print `.3mf` project
+
+- **electronics/**  
+  Wiring diagrams and electronic documentation
+
+- **media/**  
+  Visual content for documentation  
+  - `images/` – Build and final photos  
+  - `videos.md` – Demo and time-lapse links
+
+- **LICENSE**  
+  Project license
+  
 ---
 
 ## Safety Notes
